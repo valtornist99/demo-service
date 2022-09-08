@@ -1,4 +1,5 @@
 # Demo service
+# test
 
 ## Launch notes
 * Rename `name`, `description`, `github` to corresponding values in `pom.xml`
